@@ -58,6 +58,10 @@
   margin: 0;
 }
 
+#facebox .content {
+  -webkit-overflow-scrolling: touch;
+}
+
 #facebox .footer {
   border-top: 1px solid #DDDDDD;
   padding-top: 5px;
